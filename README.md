@@ -50,11 +50,12 @@ Eso no es una anécdota. Es una tendencia. Y este proyecto lo demuestra con dato
 ## 📁 Estructura del repositorio
 
 ```
-streaming-is-the-new-tv/
+Proyecto_M4_PowerBI/
 │
 ├── 📊 dashboard_streamers.pbix       # Dashboard Power BI
 │
 ├── 📂 data/
+│   ├── EDA.ipynb                # Jupyter Notebook de exploración y limpieza
 │   ├── streamers.csv            # Top 50 streamers en español por año
 │   └── streamers_global.csv     # Top 50 streamers global por año
 │
